@@ -22,11 +22,11 @@ body{
     filter: blur(10px);
     -webkit-filter: blur(10px);
     background: var(--color);
-    transform: translate(-50%, -107%) rotateZ(var(--rotate)) translateZ(-50px);
-    -webkit-transform: translate(-50%, -107%) rotateZ(var(--rotate)) translateZ(-50px);
-    -moz-transform: translate(-50%, -107%) rotateZ(var(--rotate)) translateZ(-50px);
-    -ms-transform: translate(-50%, -107%) rotateZ(var(--rotate)) translateZ(-50px);
-    -o-transform: translate(-50%, -107%) rotateZ(var(--rotate)) translateZ(-50px);
+    transform: translate(-50%, -100%) rotateZ(var(--rotate)) translateZ(-50px);
+    -webkit-transform: translate(-50%, -100%) rotateZ(var(--rotate)) translateZ(-50px);
+    -moz-transform: translate(-50%, -100%) rotateZ(var(--rotate)) translateZ(-50px);
+    -ms-transform: translate(-50%, -100%) rotateZ(var(--rotate)) translateZ(-50px);
+    -o-transform: translate(-50%, -100%) rotateZ(var(--rotate)) translateZ(-50px);
 }
 .colors{
     display: block;
